@@ -67,3 +67,10 @@ Clone the repository and open the dashboard file in your preferred data visualiz
 
 ```bash
 git clone https://github.com/yourusername/olympic-history-dashboard.git
+
+---
+
+## Dashboard
+![Screenshot 2024-10-30 123754](https://github.com/user-attachments/assets/a4e52132-3edb-4e91-8564-13817a26a785)
+
+
